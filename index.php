@@ -3,7 +3,7 @@
 	header('Access-Control-Allow-Origin: *');
 	header('Content-type: application/json');
 
-	$conn = mysqli_connect('localhost','root','password','dbname');
+	$conn = mysqli_connect('localhost','root','password','databasename');
 
 	if(!isset($_GET['q']) || !isset($_GET['type']) )
 	{
