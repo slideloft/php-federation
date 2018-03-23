@@ -8,7 +8,7 @@ eg : https://www.tonaira.com/.well-known/stellar.toml
 
 add your wallet address and federation id to your mysql .
 
-also do not forget to add access origin to for CORS.
+also do not forget to add access origin  for CORS.
 
 
 example of a result is : https://tonaira.com/fed/?q=ngn*tonaira.com&type=name
